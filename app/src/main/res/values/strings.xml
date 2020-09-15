@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Vegetable Service Engine</string>
+    <string name="api_url">https://8e153aa529c4.ngrok.io/vegetable_service_engine/</string>
+
+<!--    Text Views-->
+    <string name="add_vegetable">Add Vegetable</string>
+    <string name="edit_vegetable">Edit Vegetable</string>
+
+
+<!--    Placeholder-->
+    <string name="name_placeholder">Name</string>
+    <string name="quantity_placeholder">Quantity</string>
+    <string name="price_placeholder">Price</string>
+
+<!--    Buttons-->
+    <string name="btn_submit">Submit</string>
+
+<!--    Messages-->
+    <string name="error">Sorry, we were unable to process your request</string>
+</resources>
