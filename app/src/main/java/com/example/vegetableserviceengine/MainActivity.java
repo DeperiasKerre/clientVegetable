@@ -16,7 +16,7 @@ import javax.net.ssl.SSLContext;
 import javax.net.ssl.SSLSession;
 import javax.net.ssl.TrustManager;
 import javax.net.ssl.X509TrustManager;
-
+//Implementation of the button activities
 public class MainActivity extends AppCompatActivity {
 
     private Button addVegetable, modifyVegetable, sellVegetable;
