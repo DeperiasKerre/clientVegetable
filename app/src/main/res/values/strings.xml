@@ -7,7 +7,7 @@
     <string name="edit_vegetable">Edit Vegetable</string>
 
 
-<!--    Placeholder Definitions-->
+<!--    Placeholder Definition-->
     <string name="name_placeholder">Name</string>
     <string name="quantity_placeholder">Quantity</string>
     <string name="price_placeholder">Price</string>
