@@ -42,7 +42,7 @@ import java.util.List;
 import java.util.Map;
 
 import javax.net.ssl.HttpsURLConnection;
-
+//Implementation of the Vegetables List activities.This defines the interactions with the list.
 public class ListVegetablesActivity extends AppCompatActivity implements VegetableAdapter.ItemClickListener  {
 
     private String TAG;
